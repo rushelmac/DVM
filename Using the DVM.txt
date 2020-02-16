@@ -1,0 +1,15 @@
+# Follow the procedure :
+  1.Enter admin panel using credentials given in the readme file
+  
+  2.The options :
+    1.New Election : -For inintiation of new election.It takes the information required for authentication of unique identifier of voter (e.g In the code,example of unique id is '2018btecs00050' :- year:2018, branch code:btecs, roll no:50)
+                     -After that, set up the count and names of candidates standing for election.
+                     -(NOT MANDETORY-)Then special id's 1:-That are to be banned from voting(e.g. Drop-outs, absents), 2:-That are allowed for voting, but don't fit the unique id criterion (e.g.Repeater students, DA students)
+    2.Continue previous election :-Only if the voting process is terminated unexpectedly.(i.e. without admin permission)    
+    3.Delete illegal votes : For queries of people complaining use of their id by someone else, only admin can allow them for voting by deleting votes on their id (Admin can't see the votes,can only delete it)    
+    4.Result : Result of voting process.(Once the result is displayed, all the database is deleted automatically and no more voting is allowed)    
+    5.Log out
+  
+  3.The student panel : Only two processes are involved:
+    1.Entering the id.
+    2.Giving vote from the list displayed.
