@@ -1,7 +1,7 @@
 # DVM
 Digital Voting Machine
 
-##Features :
+## Features :
 
     1)Allows us to set up a flexible and trustworthy voting system
 
@@ -9,9 +9,9 @@ Digital Voting Machine
 
     3)The project can handle all the possibilities of spam voters, confidentiality and to an extent, machine failure thereby being an ideal solution for such elections.
 
-##Working of Code:-
+## Working of Code:-
 
-###The Header File : ELECTION.H :-
+### The Header File : ELECTION.H :-
 
     Structure : 
 
