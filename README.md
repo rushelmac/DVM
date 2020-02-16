@@ -38,4 +38,4 @@ Digital Voting Machine
         7)stu : All functions at Voter’s end
 
 ##### [Note:Recommended Compiler: Turbo C++ (Unable all clrscr() functions while using Turbo c++)]
-##### [Admin Panel : Username : Admin Password: SR@3111]
+##### [Admin Panel : Username : Admin, Password: SR@3111]
